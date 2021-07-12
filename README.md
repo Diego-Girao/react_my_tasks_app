@@ -1,2 +1,4 @@
 # react_my_tasks_app
-react_my_tasks_app using prime react
+## This react aplictation using prime react. 💻
+
+### DJF - Treinamentos (Aulas sobre React)
